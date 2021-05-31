@@ -12,7 +12,7 @@ Emerging Technologies
 * https://snack.expo.io/@pauuqqq/lab5-Exempted
 * https://snack.expo.io/@pauuqqq/lab6-networking
 
-## Members (BSCS 3‐X)
+## Members (BSCS 3‐3)
 * Chavez, Hanna Nicole
 * Manzano, All Jhane
 * Nogot, Jonvic
